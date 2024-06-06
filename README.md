@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">A passionate Software Engineer from India..</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fwoman-programmer.html%3Fcutout%3D1&psig=AOvVaw0DYu4b6U8b1oYhQzyZ-EBa&ust=1717788752654000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi_1_jbx4YDFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=caricature%20coding%20image%20of%20girl%20free&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg%3Fsize%3D338%26ext%3Djpg%26ga%3DGA1.1.1518270500.1717632000%26semt%3Dais_user&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer-girl&docid=Ay2eiKbMZO9ehM&tbnid=fFEA-MbfneQmkM&vet=12ahUKEwi1_umu3MeGAxWtTmwGHeqZBzsQM3oECEEQAA..i&w=338&h=338&hcb=2&ved=2ahUKEwi1_umu3MeGAxWtTmwGHeqZBzsQM3oECEEQAA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalisingh0108&label=Profile%20views&color=0e75b6&style=flat" alt="anjalisingh0108" /> </p>
 
